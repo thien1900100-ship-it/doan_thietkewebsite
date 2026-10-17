@@ -1,0 +1,6 @@
+{
+  "name": "TECHZONE - Thế Giới Công Nghệ",
+  "description": "Nền tảng thương mại điện tử chuyên đồ công nghệ, máy tính, điện thoại, linh kiện và phụ kiện với đầy đủ quản trị đơn hàng, tồn kho và xuất mã nguồn Flask/MySQL.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

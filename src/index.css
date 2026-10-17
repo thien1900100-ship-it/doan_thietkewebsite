@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+@layer base {
+  button {
+    border-radius: 0.5rem;
+  }
+
+  input:not([type="checkbox"]):not([type="radio"]),
+  select,
+  textarea {
+    border-radius: 0.5rem;
+  }
+}
